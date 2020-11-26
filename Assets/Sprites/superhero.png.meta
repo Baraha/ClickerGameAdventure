@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: b57d04e5f3deb6d4db9720fa91af1cae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3595274140741711882
+    second: superhero_0
+  - first:
+      213: 7381575629163568319
+    second: superhero_1
+  - first:
+      213: 1487572385170614934
+    second: superhero_2
+  - first:
+      213: 8459519620727131607
+    second: superhero_3
+  - first:
+      213: 8996200429689787758
+    second: superhero_4
+  - first:
+      213: -6317060489356356315
+    second: superhero_5
+  - first:
+      213: -9182171801482179643
+    second: superhero_6
+  - first:
+      213: 3940198808116962340
+    second: superhero_7
+  - first:
+      213: -135323844770764140
+    second: superhero_8
+  - first:
+      213: -244841892932854273
+    second: superhero_9
+  - first:
+      213: 371638193835718871
+    second: superhero_10
+  - first:
+      213: 590383359394453840
+    second: superhero_11
+  - first:
+      213: 8157058215446271741
+    second: superhero_12
+  - first:
+      213: -3762546537322630821
+    second: superhero_13
+  - first:
+      213: 1253140843685192132
+    second: superhero_14
+  - first:
+      213: 5083589924053744752
+    second: superhero_15
+  - first:
+      213: -4945922461683913489
+    second: superhero_16
+  - first:
+      213: 4201599951353149863
+    second: superhero_17
+  - first:
+      213: 7567338382303408341
+    second: superhero_18
+  - first:
+      213: -7485040060044102277
+    second: superhero_19
+  - first:
+      213: -4356868892416521684
+    second: superhero_20
+  - first:
+      213: 5682106677978956455
+    second: superhero_21
+  - first:
+      213: 2536726695660472953
+    second: superhero_22
+  - first:
+      213: 1501814490298165650
+    second: superhero_23
+  - first:
+      213: 7718473063451159096
+    second: superhero_24
+  - first:
+      213: -1850676770426939287
+    second: superhero_25
+  - first:
+      213: -1801077545879332345
+    second: superhero_26
+  - first:
+      213: -2117367295883335620
+    second: superhero_27
+  - first:
+      213: -1713941203779334509
+    second: superhero_28
+  - first:
+      213: 7818019542994925674
+    second: superhero_29
+  - first:
+      213: 3045173862821268773
+    second: superhero_30
+  - first:
+      213: -947260293210977197
+    second: superhero_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: superhero_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 474
+        width: 68
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f741f2b7350b1ec0800000000000000
+      internalID: -3595274140741711882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 473
+        width: 82
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc99faecef907660800000000000000
+      internalID: 7381575629163568319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_2
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 473
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a66cbe33be4a410800000000000000
+      internalID: 1487572385170614934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_3
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 473
+        width: 87
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd43eb4640466570800000000000000
+      internalID: 8459519620727131607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_4
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 466
+        width: 75
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6550eb70ace8dc70800000000000000
+      internalID: 8996200429689787758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_5
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 471
+        width: 71
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525524344fa4558a0800000000000000
+      internalID: -6317060489356356315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_6
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 466
+        width: 76
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbcb02556f529080800000000000000
+      internalID: -9182171801482179643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_7
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 482
+        width: 107
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424aa3e90f56ea630800000000000000
+      internalID: 3940198808116962340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 324
+        width: 73
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a6cce1eab3f1ef0800000000000000
+      internalID: -135323844770764140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_9
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 315
+        width: 85
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd5a9978952a9cf0800000000000000
+      internalID: -244841892932854273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_10
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 332
+        width: 91
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8bb80e7f2582500800000000000000
+      internalID: 371638193835718871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_11
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 324
+        width: 72
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05912029986713800800000000000000
+      internalID: 590383359394453840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_12
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 326
+        width: 69
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df65bdf9a31b33170800000000000000
+      internalID: 8157058215446271741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_13
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 332
+        width: 72
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b513200fbdfb8cbc0800000000000000
+      internalID: -3762546537322630821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_14
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 332
+        width: 109
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1a36935fc046110800000000000000
+      internalID: 1253140843685192132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_15
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 332
+        width: 107
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c7af61a1a8c8640800000000000000
+      internalID: 5083589924053744752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_16
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 180
+        width: 80
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec64b8c9bd8c5bb0800000000000000
+      internalID: -4945922461683913489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_17
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 180
+        width: 83
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9f3bc05e41f4a30800000000000000
+      internalID: 4201599951353149863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_18
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 180
+        width: 88
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0bf5c4a26940960800000000000000
+      internalID: 7567338382303408341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_19
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 180
+        width: 88
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75b08b09bbcf1890800000000000000
+      internalID: -7485040060044102277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_20
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 188
+        width: 73
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a409673da4983c0800000000000000
+      internalID: -4356868892416521684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_21
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 188
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a28fc42be5eade40800000000000000
+      internalID: 5682106677978956455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_22
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 184
+        width: 79
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ac7135d73443320800000000000000
+      internalID: 2536726695660472953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_23
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 188
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299a1cc625487d410800000000000000
+      internalID: 1501814490298165650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_24
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 44
+        width: 88
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a6d636b568d1b60800000000000000
+      internalID: 7718473063451159096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_25
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 44
+        width: 88
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96892a858431156e0800000000000000
+      internalID: -1850676770426939287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_26
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 44
+        width: 87
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a1ee8b3894107e0800000000000000
+      internalID: -1801077545879332345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_27
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 44
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3828d5a9a99d92e0800000000000000
+      internalID: -2117367295883335620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_28
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 50
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ec3d65e8bd638e0800000000000000
+      internalID: -1713941203779334509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_29
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 41
+        width: 83
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68364b4a5f2f7c60800000000000000
+      internalID: 7818019542994925674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_30
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 38
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d04c48e71a24a20800000000000000
+      internalID: 3045173862821268773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superhero_31
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 43
+        width: 69
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cc35938c7aad2f0800000000000000
+      internalID: -947260293210977197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 337cea4cfe6b1e54280d0cc3e343c655
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
